@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.22310.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consoler", "Consoler\Consoler.csproj", "{F1087D1A-1D66-4CD0-8645-137C562EA93F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveLib", "ReactiveLib\ReactiveLib.csproj", "{F2C8992B-B7D9-48A1-AAFD-684CA2781E4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F1087D1A-1D66-4CD0-8645-137C562EA93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1087D1A-1D66-4CD0-8645-137C562EA93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1087D1A-1D66-4CD0-8645-137C562EA93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C8992B-B7D9-48A1-AAFD-684CA2781E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C8992B-B7D9-48A1-AAFD-684CA2781E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C8992B-B7D9-48A1-AAFD-684CA2781E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C8992B-B7D9-48A1-AAFD-684CA2781E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
